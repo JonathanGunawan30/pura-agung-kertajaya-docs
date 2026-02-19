@@ -14,7 +14,7 @@ Panduan ini mencakup instruksi lengkap pengelolaan website untuk tiga unit utama
 
 ## 🚀 Cara Menjalankan (Local Development)
 
-Pastikan komputer Anda sudah terinstal **Node.js** (versi 18 atau lebih baru).
+Pastikan komputer Anda sudah terinstal **Node.js** (versi 20 atau lebih baru).
 
 ### 1. Instalasi Dependensi
 Jalankan perintah ini di terminal untuk mengunduh semua pustaka yang dibutuhkan:
