@@ -1,0 +1,8 @@
+{
+  "label": "Panduan Umum",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Informasi dasar penggunaan sistem untuk semua pengurus."
+  }
+}
